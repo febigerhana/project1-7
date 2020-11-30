@@ -1,0 +1,10 @@
+login ke halaman admin dengan menggunakan akun
+username : super_username@gmail.com
+password : super_username
+
+nama database : uts_dpw
+silahkan buat database dengan nama diatas di phpmyadmin dan importkan database uts_dpw.sql yang telah disiapkah
+didalam folder ini.
+
+#open_source
+#happy_coding
